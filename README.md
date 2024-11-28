@@ -3,7 +3,7 @@ C# Eğitim Kampı kapsamında öğrendiğimiz bilgileri kullanarak mini seyehat 
 
 Bu projede:                                                                                                  
 -ORM aracı olarak Entity Framework kullanıldı.                                                                                
--DbFirst yaklaşımı ile projedye veri tabanına bağlantısı sağlandı.
+-DbFirst yaklaşımı ile projeye veri tabanı eklendi.
 -Entity Framework methotları kullanılarak veri tabanına Rehberler ve Lokasyonlar eklendi.                                                             
 -Entity Framework methotları kullanılarak veri tabanındaki veriler baz alınarak alt sorgular ile çeşitli istatistikler hesaplanarak projede gösterildi.                        
 
